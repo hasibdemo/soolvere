@@ -1,0 +1,39 @@
+nav inter b 17px
+
+h1 Manrope b 60px
+p inter r 16px
+form inter sb 13px
+feature inter m 32px
+
+how it work 
+title  Manrope sb 40       
+h1 Manrope sb 22
+p roboto r 16
+
+around america 
+title Manrope sb 30
+option inter sb 18px
+
+all the stuff
+title Manrope sb 31
+p inter r 16px
+h2 inter m 17
+ BUTTON     inter m 18px
+
+love by bussniess 
+title Manrope sb 40
+p inter r 16 
+name inter m 17
+
+best real state 
+title Manrope sb 40
+p inter r 16px
+h2 inter sb 19px
+
+trust by over 
+title Manrope sb 45
+p inter r 20
+
+
+
+
